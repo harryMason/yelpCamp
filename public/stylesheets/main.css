@@ -45,3 +45,8 @@
     width: 30%; 
     margin: 25px auto;
 }
+
+.notAmember {
+    text-align: center;
+    padding-top: 15px;
+}
